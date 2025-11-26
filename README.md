@@ -29,4 +29,4 @@ Volg de instructies van je docent of het lesmateriaal om met deze repository te 
 
 ##  Licentie & Auteursrecht
 
-Dit materiaal is ontwikkeld door **Stichting Praktijkleren** ten behoeve van het ICT-beroepsonderwijs.
+Dit materiaal is ontwikkeld door **Stichting Praktijkleren** om van het ICT-beroepsonderwijs een boost te geven.
