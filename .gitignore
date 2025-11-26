@@ -1,0 +1,18 @@
+# Logbestanden
+*.log
+
+# Cachebestanden
+/cache/
+*.cache
+
+# Bibliotheek bestsnden
+/vendor/
+node_modules/
+
+# Configuratiebestanden
+*.env
+config.json
+
+# IDE/Editor bestanden
+.vscode/
+.idea/
